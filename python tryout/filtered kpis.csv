@@ -1,0 +1,5 @@
+,UniqueID,Date,Time of the Day,Day of week,Latitude,Longitude,Agg. Active RSCP (dBm),Agg. Active Ec/Io (dB),UE Received Power (RSSI - dBm): Top #1,Call Established,DayOfWeek
+119,5577,2022-02-20,Morning,Sunday,7.29648,5.1447715,-77.90000153,-6.099999905,-72.0,1,6
+154,13330,2022-02-23,Morning,Wednesday,7.2765,5.2945625,-76.90000153,-5.900000095,-70.09999847,1,2
+159,14517,2022-02-23,Morning,Wednesday,7.32214,5.114499,-68.59999847,-5.199999809,-67.19999695,1,2
+168,17046,2022-02-24,Evening,Thursday,7.2759,5.2926175,-82.5,-4.900000095,-78.40000153,1,3
